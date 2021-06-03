@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Remarks on the several sanguinary and penal laws made in Parliament against Roman Catholics with some reasons humbly offer'd in order to obtain a repeal of those laws, for the better advancement of His Majesty's service, and the ease of many of his most loyal subjects.</title>
+         </titleStmt>
+         <extent>Approx. 39KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58498</idno><idno type="EEBO-CITATION">12827286</idno>
+  <idno type="VID">94280</idno>
+  <idno type="EEBO-PROQUEST">2240961722</idno>
+  
+            <idno type="STC">Wing R936</idno>
+            <idno type="STC">ESTC R10450</idno>
+            <idno type="OCLC">12827286</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58498)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94280)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 776:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Remarks on the several sanguinary and penal laws made in Parliament against Roman Catholics with some reasons humbly offer'd in order to obtain a repeal of those laws, for the better advancement of His Majesty's service, and the ease of many of his most loyal subjects.</title>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ..., and are to be sold at his Printing-house ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94280:1"/>
+            <pb facs="tcp:94280:1"/>
+            <p>REMARKS On the Several SANGUINARY AND <hi>Penal Laws</hi> MADE IN PARLIAMENT AGAINST Roman Catholics.</p>
+            <p>With some REASONS humbly offer'd in order to ob<g ref="char:EOLhyphen"/>tain a REPEAL of those Laws, for the better Ad<g ref="char:EOLhyphen"/>vancement of His Majesty's Service, and the Ease of many of His most Loyal Subjects.</p>
+            <p>
+               <hi>Published with Allowance.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's Most Excel<g ref="char:EOLhyphen"/>lent Majesty, for His Houshold and Chappel; And are to be sold at his Printing-house on the Ditch-side in <hi>Black-Fryers.</hi> 1687.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:94280:2"/>
+            <pb n="3" facs="tcp:94280:2"/>
+            <head>REMARKS ON THE Sanguinary, and Penal Laws Made in PARLIAMENT against <hi>Roman Catholics.</hi>
+            </head>
+            <p>IN <hi>England,</hi> where, ever since the Reformation, nothing has been more pretended to, than the Purity of Religion, (tho' as little appearing in the Reformation and Purity of Life, as in o<g ref="char:EOLhyphen"/>ther parts of <hi>Europe</hi>) two things have been of late years much asserted, <hi>viz. The Liberty and Freedom of Conscience in matters of Faith;</hi> and <hi>Magna Charta,</hi> which has establish'd the Liberty and Freedom of our Persons and Estates. The Violation of Consci<g ref="char:EOLhyphen"/>ence has been the great scandal and Common-place of all our Invectives against the Church of <hi>Rome: Fox's Martyrology</hi> is full of dismal stories of Persecu<g ref="char:EOLhyphen"/>tions against <hi>Protestants</hi> on the account of Consci<g ref="char:EOLhyphen"/>ence; and 'tis the very samething that represents the proceedings of the <hi>French King,</hi> in relation to his <hi>Protestant Subjects,</hi> so odious at this day; that brings so many poor People out of <hi>France</hi> into <hi>England</hi> and <hi>Holland,</hi> and opens so many Purses in Charity to maintain them. As to <hi>Magna Charta,</hi> it hath been now for above 460 years the Darling Law of our
+<pb n="4" facs="tcp:94280:3"/>
+               <hi>English</hi> Nation, the Sacred Touch-stone of Liberty, and the Great <hi>Diana</hi> of the Commons. And, as Sir <hi>Edward Coke</hi> observes,<note place="margin">Co. <hi>1.</hi> Inst. p. <hi>81.</hi>
+               </note> it has been confirm'd above thirty times. It is the Fountain of all the Fundamen<g ref="char:EOLhyphen"/>tal Laws of this Realm; and not only all Judgments given against any Chapter of <hi>Magna Charta</hi> are void, by the Statute 25 <hi>E.</hi> 1. ch. 2. but also by the Stat. 42 <hi>E.</hi> 3. ch. 1. it is Enacted, <hi>That if any Statute be made contrary to</hi> Magna Charta, <hi>it shall be holden for none.</hi>
+            </p>
+            <p>I shall therefore here observe, 1. How great an Imposition and Constraint the <hi>Penal Laws</hi> are upon the Conscience; and 2. How repugnant they are to <hi>Magna Charta.</hi>
+            </p>
+            <p>The Penal Laws against <hi>Roman Catholics</hi> are these:</p>
+            <p>1 <hi>Eliz.</hi> ch. 1. 5 <hi>Eliz.</hi> ch. 1. 13 <hi>Eliz.</hi> ch. 2. 23 <hi>Eliz.</hi> ch. 1. 27 <hi>Eliz.</hi> ch. 2. 29 <hi>Eliz.</hi> ch. 6. 35 <hi>Eliz.</hi> ch. 2. 1 <hi>Jac.</hi> ch. 4. 3 <hi>Jac.</hi> ch. 4. 3 <hi>Jac.</hi> ch. 5. 7 <hi>Jac.</hi> ch. 6. 3 <hi>Car.</hi> 1. ch. 2. 25 <hi>Car.</hi> 2. ch. 2. and 30 <hi>Car.</hi> 2.</p>
+            <div type="part">
+               <head>First then, as to the Stat. <hi>1 Eliz.</hi> ch. <hi>1.</hi>
+               </head>
+               <p>By this Statute, and by the Oath of Supremacy hereby enjoyn'd, every <hi>Papist</hi> in Office is subject<g ref="char:EOLhyphen"/>ed to severe Penalties, unless he renounces and ab<g ref="char:EOLhyphen"/>jures all Foreign Jurisdictions, Powers, Superiori<g ref="char:EOLhyphen"/>ties, and <hi>Authorities</hi> in Ecclesiastical matters. By which words he does not only deny the Primacy of Rule in matters of Religion, which his Forefathers taught him to be in the Pope or Bishop of <hi>Rome;</hi> but also he does cast off all <hi>Authority</hi> of any General Council held beyond Seas, and all its Decrees or
+<pb n="5" facs="tcp:94280:3"/> Decisions in matters of Faith and Christian Doctrin, tho' such General Council be held by the common consent of all <hi>Christendom;</hi> yet if such Council be held beyond Seas, it is repugnant to this Statute, and the words of this Oath, and of no force here, tho' his Conscience tells him otherwise. Neither, by this Statute can any <hi>Roman Catholic</hi> hold, affirm, or defend in discourse, any such Foreign <hi>Authority</hi> in matters of Religion, without forfeiting all his Goods and Chattels for the first Offence, incurring a Praemunire for the second, and High-Treason for the third. And note, that the Foreign Jurisdiction and Authority which by this Statute he is forced to abjure, against his Conscience, relates only to Ec<g ref="char:EOLhyphen"/>clesiastical and Spiritual matters. For, as to any Encroachment in Temporal Affairs, and Matters of Secular Government, by the Pope or Court of <hi>Rome,</hi> there have been several Staute-Laws made to restrain that (if at any time attempted) by divers <hi>Catholic Kings</hi> of this Kingdom,<note place="margin">25 <hi>E.</hi> 3. 27 <hi>E.</hi> 3. 1. 38 <hi>F.</hi> 3. 16 <hi>R.</hi> 2. 5. 2 <hi>H.</hi> 4. 3. 3 <hi>H.</hi> 5. <hi>St.</hi> 2. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 4, <hi>&amp;c.</hi>
+                  </note> who lived and died in the Religion of the Church of <hi>Rome:</hi> And there is no <hi>Roman Catholic</hi> in <hi>England,</hi> who will make the least scruple to oppose the Pope's Authority in such matters.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Stat.</hi> 5 <hi>Eliz.</hi> ch. 1.</head>
+               <p>This Statute makes the said Oath and Abjuration m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re generally to be taken, and the Refusers sub<g ref="char:EOLhyphen"/>ject to greater Penalties than by the former. It en<g ref="char:EOLhyphen"/>joyns it also to all Members of the House of Com<g ref="char:EOLhyphen"/>mons in Parliament: So that hereby a Gentleman bred up from his Infancy in the Religion of the Church of <hi>Rome,</hi> cannot possibly with a safe Con<g ref="char:EOLhyphen"/>science vote among the Representatives of the Na<g ref="char:EOLhyphen"/>tion, nor serve his Countrey in Parliament, tho'
+<pb n="6" facs="tcp:94280:4"/> formerly the Members of the said House of Com<g ref="char:EOLhyphen"/>mons were of no other Religion, from the first Ori<g ref="char:EOLhyphen"/>ginal of that House down to the last Century.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Stat.</hi> 13 <hi>Eliz.</hi> ch. 2.</head>
+               <p>This is a bloody Statute; for by this it is made High-Treason for any person or persons within this Realm, (in which words are included not only Protestants, but profest Atheists, Jews, Socinians, or any other sort of people bred up in Heresie and Error) to be absolved or reconciled to the Church of <hi>Rome,</hi> tho' in their Conscience they may be ne<g ref="char:EOLhyphen"/>ver so fully convinced of the Truth of that Religion; yet they must not become Members of that Church, under the Penalty of being Hang'd and Quarter'd, and of forfeiting all their Lands and Estate Real and Personal from their Innocent Children. Also to bring into this Realm any <hi>Agnus Dei,</hi> Cross, Picture, or Beads, from the Bishop or See of <hi>Rome,</hi> or for any person to receive or wear the same; tho' these are not by the Statute it self represented as any criminal matter, but only called <hi>Vain and Su<g ref="char:EOLhyphen"/>perstitious things;</hi> yet this is made a <hi>Praemunire. Paragraph</hi> 7.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Stat.</hi> 23 <hi>Eliz.</hi> ch. 1.</head>
+               <p>This Statute is to the same purpose, making it High-Treason to return, or be reconciled to the Religion of the Church of <hi>Rome.</hi> Also for any per<g ref="char:EOLhyphen"/>son to hear Mass, (tho' he be bred up in the <hi>Catho<g ref="char:EOLhyphen"/>lic Religion,</hi> and never knew any other, and in his Conscience is fully convinced that this is the most Sacred part of God's Worship;) yet for so doing he is by this Statute (contrary to the constant practice
+<pb n="7" facs="tcp:94280:4"/> of former Times) to forfeit 100 Marks, and suffer a years Imprisonment.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Stat.</hi> 27 <hi>Eliz.</hi> ch. 2.</head>
+               <p>By this Statute all Priests of the Church of <hi>Rome,</hi> coming into, or remaining in this Realm, their Aiders and Abbettors, are made guilty of High-Treason. And (<hi>Parag.</hi> 13.) for any one to know of a Jesuit or Priest remaining within this Realm, tho' this be purely for the Exercise of his Religion privately, without the least Offence or Scandal; yet if such person, tho' using such Priest in matters of God's Worship, and that Religion which his Conscience tells him is not only <hi>Good,</hi> but <hi>Necessary,</hi> does not discover him within twelve days, in order to have him Hang'd and Quarter'd, this is grie<g ref="char:EOLhyphen"/>vously punishable, by Fine, and Imprisonment du<g ref="char:EOLhyphen"/>ring pleasure.</p>
+               <p>And, by <hi>Parag.</hi> 6. he incurs a <hi>Praemunire</hi> who sends or returns any Relief or Charity to a Priest or other person remaining in a College beyond Seas; tho'such Priest is not suffered by this Statute to re<g ref="char:EOLhyphen"/>main here; tho' such Priest or other person cannot exercise his Religion in <hi>England</hi> without Persecuti<g ref="char:EOLhyphen"/>on: tho' such Priest or other person be our nearest Relation, Father, Brother, or Son; and tho' the Precepts of Christianity oblige us to Charity, and the Relief of the Destitute, without distinction of Religions.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Stat.</hi> 35 <hi>Eliz.</hi> ch. 2.</head>
+               <p>A <hi>Roman Catholic,</hi> convicted of not coming to Church to hear Common-Prayer and Divine Ser<g ref="char:EOLhyphen"/>vice there, must by this Statute, within forty days
+<pb n="8" facs="tcp:94280:5"/> after such Conviction, repair to his own home, not remove above five miles from thence, and within three months conform in coming to Church, and make a formal Submission; which if he refuses to do, he shall abjure the Realm for ever, or suffer as a Felon without benefit of Clergy: In which Sub<g ref="char:EOLhyphen"/>mission he is to confess and acknowledge, <hi>That he hath grievously offended God by absenting himself from Church, and from hearing Divine Service;</hi> when his Conscience possibly at the same time tells him that he should offend God in going to a Church or Congregation of people, who in his Judgment are Schismatical, and have separated themselves from the Catholic Church; or at least, that he hath <hi>Not</hi> offended God in absenting himself, and not going thither, so long as he has gone to, and served God in, his own Church, which his Conscience tells him is <hi>Catholic</hi> and <hi>Orthodox,</hi> tho' suppress'd by force.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Stat.</hi> 1 <hi>Jac.</hi> ch. 4.</head>
+               <p>This Statute confirms those formerly made in the Reign of Queen <hi>Elizabeth;</hi> and besides the For<g ref="char:EOLhyphen"/>feitures and Penalties of those Laws inflicted for not coming to Church, it Enacts, (<hi>Parag.</hi> 6.) <hi>That every Child or other person sent beyond Seas into any College to be instructed in the Romish Religion, shall be incapable to inherit to any Estate, or to enjoy any Grant or Legacy.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Stat.</hi> 3 <hi>Jac.</hi> ch. 4.</head>
+               <p>By this Statute (and by that of 29 <hi>Eliz.</hi> ch. 6.) <hi>Roman Catholics</hi> are bound to pay into the <hi>Exchequer</hi> yearly 20 <hi>l.</hi> a Month, (that is 240 <hi>l. per Annum</hi>)
+<pb n="9" facs="tcp:94280:5"/> for not coming to Church, unless the King please rather to take two third parts of their Lands. <hi>Par.</hi> 8. 11.</p>
+               <p>This Act enjoyns the <hi>Oath of Allegiance,</hi> common<g ref="char:EOLhyphen"/>ly so called; which, as it is a promissary Oath, of Faith, Allegiance, and Loyalty to the King, no <hi>Roman Catholic</hi> of His Majesty's Dominions can, or will, scruple to take, were it not that some nice words were put in on purpose to ensnare their Con<g ref="char:EOLhyphen"/>sciences. And therefore the old short Oath of Al<g ref="char:EOLhyphen"/>legiance taken by our Ancestors, and still used in <hi>Leets,</hi> and which in effect contains as much as this long Oath, never was, or is at this day, in the least scrupled to be taken by any <hi>Roman Catholic.</hi> Which short Oath being the Sum and Abstract of compleat Loyalty, is in these words:</p>
+               <p>YOV shall swear, That from this day forward you shall be True and Faithful to our So<g ref="char:EOLhyphen"/>vereign Lord King <hi>JAMES</hi> and his Heirs, and Truth and Faith shall bear of Life and Member, and Ter<g ref="char:EOLhyphen"/>rene Honor; and you shall neither know nor hear of any Ill or Damage intended unto Him, that you shall not defend; <hi>So help you Almighty God.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:94280:6"/>
+               <head>
+                  <hi>Stat.</hi> 3 <hi>Jac.</hi> ch. 5.</head>
+               <p>By this Law all <hi>Roman Catholics</hi> convicted of not coming to Church (commonly called <hi>Recusants convict</hi>) are secluded (for their Conscience sake, or their Opinion in Religion) from practising the Common and Civil Laws, or Physic; from en<g ref="char:EOLhyphen"/>joying any Office in any Court of Justice, or in the Army or Navy; and, in short, from any public Office; and that they shall be reputed as Excom<g ref="char:EOLhyphen"/>municated persons. (<hi>Parag.</hi> 8, 9, 11.)</p>
+               <p>
+                  <hi>Par.</hi> 14. A <hi>Roman Catholic</hi> who causes not his Child to be baptized by a Protestant Minister with<g ref="char:EOLhyphen"/>in a Month after its Birth, forfeits 100 <hi>l.</hi> Is not this to disallow the Baptism of the Church of <hi>Rome,</hi> in which all our Christian Ancestors were baptized, and with which St. <hi>Augustin</hi> the Monk above 1100 years ago converted the English Nation to Jesus Christ?</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Stat.</hi> 7 <hi>Jac.</hi> ch. 6.</head>
+               <p>By this Statute a Feme-Covert convicted of not coming to Church, and still persisting so to do, shall be committed to Prison, there to remain till she conforms and receives the Sacrament, unless her Husband pay 10 <hi>l.</hi> a month, or the third part of his Lands during her Recusancy. Here a Prote<g ref="char:EOLhyphen"/>stant Husband is secluded from the Society of his Wife, or else compelled to a grievous Penalty for <hi>her</hi> Conscience or Judgment in Religion.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Stat.</hi> 3 <hi>Car.</hi> 1. ch. 2.</head>
+               <p>By this Law that of the 1 <hi>Jac.</hi> ch. 4. is reinforced;
+<pb n="11" facs="tcp:94280:6"/> and it is made still more Penal for any to go, or send another, beyond Seas, to any Roman Catholic Family, School, or Society, to be instructed in Religion, tho'his Conscience be never so fully convinced of its necessity to his Salvation.</p>
+               <p>Thus far we see how well these Statutes agree with that <hi>Christian Liberty</hi> which all those of the Reformed Religion pretend to. Let us now see whether they be less repugnant to <hi>Magna Charta.</hi>
+               </p>
+               <p>By the first Chapter of <hi>Magna Charta</hi> it is Enacted, <hi>That the Church of</hi> England <hi>shall be free, and shall have all her Rights and Liberties invio<g ref="char:EOLhyphen"/>lable;</hi> (Ecclesia Anglicana libera sit, &amp; habeat omnia Jura sua integra &amp; Libertates suas illaesas.) The Reader must note here, (for it cannot be de<g ref="char:EOLhyphen"/>nied) <hi>That the Church of England,</hi> Ecclesia Angli<g ref="char:EOLhyphen"/>cana, <hi>was at the time of the making this Statute of the Great Charter, the very same in Doctrin and Discipline, Tenents and Practice, for the Mass, and other Rites, with that which is now called the Church of</hi> Rome.</p>
+               <q>By the Statute 27 <hi>Eliz.</hi> ch. 2. it is High-Treason for any Priest of the Church of <hi>Rome</hi> to come into, or remain in this Realm. The Statute 23 <hi>Eliz.</hi> ch. 1. makes it the forfeiture of 200 Marks, and a years Imprisonment, to say Mass. And by 13 <hi>Eliz.</hi> ch. 2. and other Statutes, it is made High-Treason to be reconciled to that Church, which in <hi>Magna Charta</hi> is called <hi>Ecclesia Angli<g ref="char:EOLhyphen"/>cana;</hi> and to hear Mass, as was then practised, the forfeiture of 100 Marks, by 23 <hi>Eliz.</hi> 1.</q>
+               <p>By the seventh Chapter of <hi>Magna Charta</hi> it is En<g ref="char:EOLhyphen"/>acted, <hi>That a Widow, after the Death of her Husband, incontinent, and without any Dif<g ref="char:EOLhyphen"/>ficulty, shall have her Marriage and her Inhe<g ref="char:EOLhyphen"/>ritance,
+<pb n="12" facs="tcp:94280:7"/> and shall give nothing for her Dower; and the third part of her Husband's Lands shall be assigned for her Dower.</hi>
+               </p>
+               <q>By the Statute 3 <hi>Jac.</hi> 1. ch. 5. A Widow of the <hi>Roman Catholic</hi> Religion shall not enjoy two third parts of her Dower, unless she will change her Religion, and come to Church. <hi>Par.</hi> 10. And if she was married by a Priest of the Church of <hi>Rome,</hi> and not by a Minister, ac<g ref="char:EOLhyphen"/>cording to the Common-Prayer-book, she shall not have any Dower at all. <hi>Par.</hi> 13.</q>
+               <p>By the last Chapter of <hi>Magna Charta</hi> it is Enacted, <hi>That all persons, as well Spiritual as Temporal, shall en<g ref="char:EOLhyphen"/>joy all their free Liberties and free Customs, which they have had in Time past.</hi>
+               </p>
+               <q>By the Statute 3 <hi>Jac.</hi> 1. ch. 5. a <hi>Roman Catholic</hi> shall not be admitted to present to his Advow<g ref="char:EOLhyphen"/>son. <hi>Par.</hi> 18. He shall not be capable of enjoy<g ref="char:EOLhyphen"/>ing Lands by Inheritance or Grant. <hi>Par.</hi> 16, 17. Nor to be an Executor, Administrator, or Guardian. <hi>Par.</hi> 22. Nor shall he enjoy any Copy-hold, or Customary Estate for Life, by the Stat. 35 <hi>Eliz.</hi> ch. 2. <hi>Parag.</hi> 5. Besides many other particulars, contrary to the free Customs and Liberties of former times.</q>
+               <p>Thus much of the Penal Laws made against <hi>Ro<g ref="char:EOLhyphen"/>man Catholics</hi> in the Reigns of Queen <hi>Elizabeth,</hi> King <hi>James,</hi> and King <hi>Charles</hi> I. As for the Statute 35 <hi>Eliz.</hi> ch. 1. I look upon that to be solely intend<g ref="char:EOLhyphen"/>ed against another sort of Recusants, <hi>viz. Protestant Sectaries,</hi> and such as frequent Conventicles. There remain two more Statutes made against <hi>Papists,</hi> in the Reign of His late Majesty King <hi>Charles</hi> II. name<g ref="char:EOLhyphen"/>ly the 25 and 30 of his Reign; which being some<g ref="char:EOLhyphen"/>thing
+<pb n="13" facs="tcp:94280:7"/> different from those I have already mention'd, I will treat of them apart by themselves.</p>
+               <p>On the whole, I desire the discreet Reader seri<g ref="char:EOLhyphen"/>ously to consider but these two things: 1. What rigid Laws have been made for the Extirpation of the <hi>Roman Catholic</hi> Religion and its Professors from the face of the <hi>English</hi> Earth; That nothing has been omitted to this purpose which the Wit of Man could invent, even to the depriving them of all Books of Devotion in that Religion, (<hi>Stat.</hi> 3 <hi>Jac.</hi> 1. <hi>ch.</hi> 5. <hi>Par.</hi> 25.) That these Laws have been (at some times more especially) severely executed a<g ref="char:EOLhyphen"/>gainst their Lives, Estates, and Reputations: Yet all this, for the space of above 120 years, has not been able to extinguish that Religion in <hi>England,</hi> but that it has subsisted, nay even increas'd, when un<g ref="char:EOLhyphen"/>der the greatest Persecutions and Scandals. He that considers this, cannot easily forbear concluding, that the hand of God is in it; and that they preach no absurd or unreasonable Doctrin, who affirm, that <hi>This is that Church which the Gates of Hell shall not prevail against,</hi> and which our Blessed Savior has promised to <hi>be with</hi> (as well by his Assistance and Support, as Direction) <hi>to the end of the World.</hi>
+               </p>
+               <p n="2">2. Consider the Effect and Consequence of these Penal and Sanguinary Laws in matters of Religion. If their Justice and Reasonableness arises only from their being Enacted by Parliament, then was the Statute of the <hi>Six Articles,</hi> made 31 <hi>H.</hi> 8. and the Statute against <hi>Lollards,</hi> made 2 <hi>H.</hi> 5. as Just and Reasonable: Then, if in future times any such<g ref="char:EOLhyphen"/>like other Laws should be made by any future Par<g ref="char:EOLhyphen"/>liament, (for what <hi>has</hi> been <hi>may</hi> be) they will be of as great and unquestionable Authority, and the Persecution Enacted by them as Legal and Just:
+<pb n="14" facs="tcp:94280:8"/> In short then, the Religion set up by Parliament, be it what it will, must always be best and truest. But if, on the other hand, the Goodness and Rea<g ref="char:EOLhyphen"/>sonableness of the Protestant Religion does not con<g ref="char:EOLhyphen"/>sist in the force of an Act of Parliament; nor the Illegality and Badness of the Religion of the Church of <hi>Rome</hi> to be concluded from the positive Laws made of late years in <hi>England</hi> against it: why then should we not desire and hope, That these Sangui<g ref="char:EOLhyphen"/>nary and Penal Laws may be Repealed, and that Religion may be left to stand or fall according to its innate Merit, without the Compulsion of a Legal Force, which may make a <hi>Hypocrite,</hi> but never can a <hi>Pious Christian?</hi>
+               </p>
+            </div>
+         </div>
+         <div type="reasons">
+            <head>
+               <hi>REASONS humbly offered Against the TEST, Act of 25</hi> Car. <hi>2. ch. 2.</hi> Made to disable all <hi>Papists</hi> to hold any Office of Trust or Profit, unless they take the Sacrament in a Parish-Church, and renounce <hi>Transub<g ref="char:EOLhyphen"/>stantiation.</hi>
+            </head>
+            <p n="1">1. THe pretended Occasion of making this Sta<g ref="char:EOLhyphen"/>tute is exprest in the Title and Preamble to be <hi>For preventing Dangers which may hap<g ref="char:EOLhyphen"/>pen from</hi> Popish Recusants; or, as the com<g ref="char:EOLhyphen"/>monly-received meaning is more expresly worded in the subsequent Stat. of 30 <hi>Car.</hi> 2. <hi>For the Safety of His Majesty's Royal Person and Government.</hi> Now supposing (tho' it is most false, yet I say,
+<pb n="15" facs="tcp:94280:8"/> supposing) for Argumentation sake, that the <hi>Pa<g ref="char:EOLhyphen"/>pists</hi> were dangerous to the Person and Government of His late Majesty, who lived a Protestant, and for some time suffer'd the rigor of the Law to run loose against them; yet who can suppose'em to be dangerous to this King's Person and Government, He being of their own Religion, and, under God, their chief Friend and Protector, whose Life and Prosperity is as near and as dear to them as their own hearts Blood?</p>
+            <p n="2">2. It hath been the unhappy occasion of Scandal to Christianity in general, and, 'tis too much to be fear'd, the Damnation of many Souls; For when the World sees persons enjoyn'd by a Statute to take the Sacrament under severe Penalties, and nothing of <hi>Preparation,</hi> or other previous Circumstance, re<g ref="char:EOLhyphen"/>quired or advised by that Statute, but only that they do it in a Parish-Church, in presence of two Witnesses, and that they produce a Certificate of it under the Minister and a Church-wardens hands: what can men presume, but that this is done to serve a Secular turn, and not out of Devotion, peo<g ref="char:EOLhyphen"/>ple being thereby push'd headlong on to <hi>eat and drink their own Damnation, not discerning the Lord's Body?</hi> What else can be concluded, when, <hi>de facto,</hi> we have seen some men of Debauch'd Lives and Atheistical Principles come to the Communion, only to comply with this Statute, and capacitate themselves for such or such a beneficial Office, with as little sense of <hi>Religion before,</hi> as sign of <hi>Reforma<g ref="char:EOLhyphen"/>tion after</hi> their Receiving?</p>
+            <p n="3">3. It is a sort of Persecution for Religion. And God knows whether this Statute has not been a
+<pb n="16" facs="tcp:94280:9"/> President to that Persecution in <hi>France.</hi> 'Tis true, <hi>That</hi> in <hi>France</hi> is <hi>general,</hi> to <hi>All</hi> that dissent from the Religion of that K<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngdom, whether they be <hi>in</hi> or <hi>out</hi> of Office: <hi>This,</hi> only to those <hi>in</hi> Office. <hi>That</hi> (as reported) uses many ways of Affliction to the <hi>Hugonots: This,</hi> only the depriving the <hi>Papists</hi> of their Livelyhood, and reducing them to Beggery, by stripping them of Imployment, which in effect concludes all in one. Allowing this difference, the Character which Dr. <hi>Burnet,</hi> in his late Letters, gives of the <hi>French-Protestants</hi> Persecution, may serve, in relation to this Statute, for the <hi>Papists</hi> in <hi>England.</hi> He tells his Reader, in the fifth Letter, dated from <hi>Nimmeguen,</hi> That the <hi>Protestants</hi> in <hi>France are forced to sign an Abjuration, which all the world must needs see is done against their Consciences;</hi> and that <hi>they are prevailed on by the many lingring Deaths, of which they see no end, to make shipwrec of their Faith.</hi>
+            </p>
+            <p n="4">4. It hath vilified the Character of the Church of <hi>England,</hi> whose Bishops were formerly esteemed the living Oracles, Representatives, and Heads of that Church; yet since this Statute they are all, even the Archbishop of <hi>Canterbury</hi> himself, tho' the very first Ecclesiastic of <hi>England,</hi> subjected in some sort to a meer Parish-Priest, and Church-warden, perhaps the poorest as well for Parts as Preferment, being obliged by this Act to go to the next Parish-Church, and receive of the Parson or Vicar there, in order to obtain a Certificate of the same, sub<g ref="char:EOLhyphen"/>scribed by the said Parson and one Church-warden, like a Lay-Elder; it not being sufficient by this Statute for a Bishop himself to receive in his own Cathedral before the Dean and all the Prebends;
+<pb n="17" facs="tcp:94280:9"/> nor is a Certificate of such Receiving valid, tho' attested by them all, under the public Seal of their Church, in a full Chapter.</p>
+            <p n="5">5. It hath been a Disquiet and Stumbling block, not only to those of the Church of <hi>Rome,</hi> but to divers grave Members of the Church of <hi>England</hi> also; which Church hath never flourish'd so much since the making of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Statute, as it did before. I have known several of the Gravest and most Learn<g ref="char:EOLhyphen"/>ed of the Protestant Divines, and Beneficed men in the Church of <hi>England,</hi> who never perform'd this <hi>Test:</hi> 1. Because, tho' they constantly and devout<g ref="char:EOLhyphen"/>ly frequented the Communion at the usual times in their own Churches, yet they thought the Sacra<g ref="char:EOLhyphen"/>ment (which is the most Sacred and Venerable part of the Christian Religion) to be profaned, when made subservient to a worldly Interest. 2. Tho' they did not believe <hi>Transubstantiation,</hi> yet they are taught in the Legal Church of <hi>England</hi> to believe the <hi>Real Presence</hi> in the Sacrament; and as they cannot and will not take upon them to define the <hi>Quomodo,</hi> or <hi>manner how</hi> that <hi>Real Presence</hi> is, so they think it an Imposition on their Judgment to be forced to affirm <hi>how it is not, viz.</hi> that it is not by <hi>Transubstantiation;</hi> especially since the greatest Wits, and most able Divines of <hi>Europe,</hi> have for Five hundred years disputed the Question, with (at least) Colour and Probability on both sides. It is one thing <hi>not to believe</hi> a Tenent in Divinity or Phi<g ref="char:EOLhyphen"/>losophy, and another thing <hi>to believe</hi> the contrary. For instance; I do not believe positively that <hi>there is</hi> a World in the Moon: yet I cannot say I believe positively <hi>there is not</hi> a World in the Moon, having read the ingenious Book writ on that subject, and
+<pb n="18" facs="tcp:94280:10"/> ascribed to Bishop <hi>Wilkins.</hi> It seems therefore as unreasonable, for any man to be compelled to believe, or subscribe to, a Negative in School-Divini<g ref="char:EOLhyphen"/>ty, as it is absurd and unpracticable for a man to be put to prove a Negative in Law, or Logic.</p>
+            <p n="6">6. In fine, this Statute seems to have been, at the time of its making, intended chiefly against the then Duke of <hi>York;</hi> and, as appears by subsequent endeavors, was the first step towards the <hi>Bill of Exclusion;</hi> for by this Statute he lost his great Of<g ref="char:EOLhyphen"/>fice of Lord High-Admiral, and suffer'd many Troubles. Which most Illustrious Prince being now, by the Glorious Providence of God, become our King, His Majesty's Loyal Subjects the Lords and Commons in Parliament (with due Submission and Reverence I speak it) seem obliged in Honor to Repeal that Law, which in the very making was le<g ref="char:EOLhyphen"/>vell'd against their now Sovereign, and designed principally to wound His Interest.</p>
+         </div>
+         <div type="reasons">
+            <head>
+               <hi>REASONS humbly offered Against the TEST, Act of 30</hi> Car. <hi>2. Stat. 2.</hi> Made to disable <hi>Papists,</hi> whether Lords or Com<g ref="char:EOLhyphen"/>mons, to sit in either House of Parliament, to serve the King or Queen, or to come into their Presence without License of the Privy-Council, un<g ref="char:EOLhyphen"/>less they first renounce <hi>Transubstantiation,</hi> &amp;c.</head>
+            <p n="1">1. THat this Statute was made in <hi>November,</hi> 1678. on the surprizing frights and belief
+<pb n="19" facs="tcp:94280:10"/> of those Plots and Treasons which <hi>Oales</hi> then sug<g ref="char:EOLhyphen"/>gested and swore; and was, as I may say, contri<g ref="char:EOLhyphen"/>ved and pass'd in hot blood, to prevent the then suggested Dangers; and, as the Title and Pream<g ref="char:EOLhyphen"/>ble expresses, <hi>for the Safety of His Majesty's Person and Government.</hi> But it having since appear'd, that those frightful Dangers and pretended Plots were without other Circumstances of Truth than the bare Oaths of a perjur'd and infamous Man; who has since been, in due form, and according to the course of the Common-Laws of <hi>England,</hi> convicted of <hi>Wilful Perjury</hi> in that matter, and his Testimo<g ref="char:EOLhyphen"/>ny render'd incredible to all future Ages; it having appear'd also by subsequent Revolutions, that the most vehement Assertors and Prosecutors of <hi>Oates</hi>'s pretended Plot, were at that very time (under the Umbrage of <hi>that Plot</hi>) conspiring and managing another <hi>most Hellish and Bloody Conjuration</hi> against His late Majesty and our now Gracious Sovereign, which Conspiracy being afterwards discovered, and the principal Heads of it Attainted and Executed, and the late Duke of <hi>Monmouth,</hi> their great Idol, taken in actual Rebellion, Attainted in Parliament, and Beheaded; the <hi>Papists</hi> all this while not so much as making one false step, but appearing al<g ref="char:EOLhyphen"/>ways steady in their Loyalty; and in this last Re<g ref="char:EOLhyphen"/>bellion, as well as in that against King <hi>Charles</hi> I. fighting for their King and the Established Govern<g ref="char:EOLhyphen"/>ment: What colour of Reason then can be produ<g ref="char:EOLhyphen"/>ced to continue the severity of this Law against those <hi>Roman Catholics,</hi> whom His Sacred Majesty affirms to be his Friends and Loyal Subjects, under the false Notion of <hi>Enemies</hi> and <hi>Traytors?</hi>
+            </p>
+            <p n="2">
+               <pb n="20" facs="tcp:94280:11"/>2. It seems not only against the Birthright and Privilege of the Peerage of <hi>England,</hi> but against that <hi>Lex &amp; Consuetudo Parliamenti,</hi> which Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Coke</hi> in all his Writings makes so Sacred; for every Temporal Lord, being of full age, ought to have a Writ of Summons <hi>ex debito Justitiae:</hi>
+               <note place="margin">Co. <hi>4.</hi> Inst. p. <hi>1.</hi>
+               </note> And being summon'd and commanded by the King's Writ (as he is) to come and sit in Parliament, and there give his advice; if afterwards he is not suffer'd to sit, unless he will renounce his <hi>Religion,</hi> or at least some of i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <hi>principal Tenents,</hi> the King's Writ of Summons is hereby defeated, the King deprived of the Advice of so many of his Great Counsellors, who are thus not suffer'd to sit, and the House of Peers (which is the most August and Highest Court of Ju<g ref="char:EOLhyphen"/>stice in this Kingdom) deprived and mutilated of so many Members. So also for the Commons, the King's Writ for their Election directs it to be made <hi>liberè &amp; indifferenter:</hi> But after such Election made and return'd, and the Parties come up, if they must not be admitted to sit, unless upon the terms above<g ref="char:EOLhyphen"/>mentioned, which perhaps they cann<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t in consci<g ref="char:EOLhyphen"/>ence perform, to what purpose is such free and in<g ref="char:EOLhyphen"/>different Election? The House of Commons petition the King for <hi>freedom of speech</hi> in their House, and he grants it, (tho' sometimes they have used that Li<g ref="char:EOLhyphen"/>berty very undecently against the Giver.) Why then should they themselves be against a <hi>freedom of Speak<g ref="char:EOLhyphen"/>ers</hi> to sit in their House, when duly elected? In the 6 <hi>H.</hi> 4. a Parliament sate at <hi>Coventry,</hi> excluding all Lawyers, for which reason it not only got the op<g ref="char:EOLhyphen"/>probrious name of <hi>Parliamentum indoctum,</hi> but, as Sir <hi>Edw. Coke</hi> says, 4 <hi>Inst.</hi> p 48. <hi>it was fruitless, and made never a good Law.</hi> We easily remember the
+<pb n="21" facs="tcp:94280:11"/> year 1659. when the unanimous voice of this Nation (then beginning to recover from her former Con<g ref="char:EOLhyphen"/>vulsions) cry'd aloud for a <hi>Free Parliament</hi> without constraint and distinguishing of Parties, and with such a Parliament began our Happiness in the Glo<g ref="char:EOLhyphen"/>rious Rest<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uration of His late Majesty and Royal Brothers.</p>
+            <p n="3">3. It enjoyns the making and subscribing a De<g ref="char:EOLhyphen"/>claration which is tantamount to an Oath; for the words are, <hi>I do solemnly and sincerely, in the presence of God, profess, testifie, and declare:</hi> In this Declara<g ref="char:EOLhyphen"/>tion the party is not only forced to say he believes <hi>there is not any Transubstantiation,</hi> &amp;c. <hi>but that the Invocation or Adoration of the Virgin</hi> Mary, <hi>or any other Saint, and the Sacrifice of the Mass, as they are now used in the Church of</hi> Rome, <hi>are Superstitious and Idolatrous.</hi> Which last part is not only point-blank against the Conscience of any <hi>Roman Catholic</hi> to say, but also against the Judgment of several of the most Learned among the <hi>Protestant Divines</hi> of the Church of <hi>England.</hi> It would be tedious to cite all their Names; let it sussice that That great <hi>Protestant Di<g ref="char:EOLhyphen"/>vine,</hi> and Prebend of <hi>Westminster,</hi> Mr. <hi>Thorndyke,</hi> says positively, That <hi>they that separate from the Church of</hi> Rome <hi>as Idolaters, are thereby Schismatics before God. Just Weights and Measures,</hi> pag. 7, 8. where he proves it in a large Discourse. Note also, That in this Declaration there is not one word re<g ref="char:EOLhyphen"/>lating to the Peace of the Government, or the Safe<g ref="char:EOLhyphen"/>ty of the King's Person, or to oblige the Subscriber to be a True and Loyal Subject, but only Notional Matters of Divinity, and Tenents of Religion.</p>
+            <p n="4">
+               <pb n="22" facs="tcp:94280:12"/>4. It deprives the King of the Service of his Sub<g ref="char:EOLhyphen"/>jects, if <hi>Papists,</hi> or such who cannot in their Con<g ref="char:EOLhyphen"/>science make the Renunciation in the Act specified, tho' they be never so capable and proper for his Ser<g ref="char:EOLhyphen"/>vice, tho' they be never so Faithful and true to their Prince, tho' they be the most Learned and Expert, or greatest Artists of their time; nay, tho' they are already sworn his Servants in Ordinary, and have taken the usual Oath of their Office, <hi>to serve him truly and faithfully, and give their due attendance in such or such a place;</hi> yet they must by this Statute (if <hi>Papists</hi> as abovesaid) either be forsworn, and not serve and attend in their Office, and not dare to come into, or remain in the King's presence, or else incur the grievous Penalties and Forfeitures in this Statute mention'd. For a Sovereign Prince to be thus divested of that Prerogative which God and his Birth-right have given him in the Service of his Sub<g ref="char:EOLhyphen"/>jects, and for those Subjects, being at Liberty, un<g ref="char:EOLhyphen"/>blemish'd with any Crime, and able and desirous to serve him according to their Duty and Allegiance, to be by a new and Arbitrary Law forbid, and ren<g ref="char:EOLhyphen"/>der'd uncapable of performing such Service, is high<g ref="char:EOLhyphen"/>ly against Reason.</p>
+            <p n="5">5. It seems in one respect to allow more Power to Six Privy-Counsellors, than to the King him<g ref="char:EOLhyphen"/>self; for it allows to any person disabled by this Act, to come into the King or Queens presence, if licen<g ref="char:EOLhyphen"/>sed so to do by Warrant under the Hands and Seals of Six Privy-Counsellors, by Order of His Maje<g ref="char:EOLhyphen"/>sty's <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ivy-Council. Yet do not the words of this Act allow to the King himself such power of Li<g ref="char:EOLhyphen"/>censing, tho' it be by Warrant under his own Royal Hand and Signet. This may sute with the Character
+<pb n="23" facs="tcp:94280:12"/> of a Duke of <hi>Venice,</hi> but whether it agrees as well with the Majesty of a Sovereign Prince and Heredi<g ref="char:EOLhyphen"/>tary Monarch, I think is no hard matter to answer.</p>
+            <p n="6">6. Lastly, it cannot but be observed, That this Statute was the second and penultimate step to the <hi>Bill of Exclusion.</hi> Who cannot remember, that from the date of this Act the disaffected Party to His now Majesty, when Duke of <hi>York,</hi> cast off their Vizard; and did openly and with a bare face endeavor all his Troubles, by Voting and Addressing against him, and not ceasing till they had seen him in a second Exile; nor then neither, but some of his base and inhuman Enemies continuing to express their malice to his very Picture; which is something more than even the Rebels under <hi>Cromwell</hi> did in the time of his First. The memory of these Actions is scandalous to our Nation, the very thought of them is uneasie to a Loyal <hi>English</hi> Heart. If this Statute therefore was the Fore-runner (not to say the Foundation) of all these Disgraces, have we not reason to hope the Loyal Parliament (when His Majesty shall please to Assemble that most High and Honorable Court) will reform the blemishes of their Predecessors, by repealing this Law, which has not only appear'd so incommodious to His Majesty already, but still is so to his Service, and to the Ease of His Loyal Sub<g ref="char:EOLhyphen"/>jects?</p>
+         </div>
+         <div type="conclusion">
+            <head>CONCLUSION.</head>
+            <p>AFter all, it may possibly be objected, That the Penal Laws having been Enacted by the Roy<g ref="char:EOLhyphen"/>al Signature in Parliament, ought not to be thought unreasonable, or not fit to be continued, altho' in some things contradictory to <hi>Magna Charta,</hi> because establi<g ref="char:EOLhyphen"/>shed
+<pb n="24" facs="tcp:94280:13"/> by the Supremest Authority in this Nation, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>redge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> same Fountain from which <hi>Magna Charta</hi> it se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>redge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> flowed. To such an Objection I Answer, That this is the very case of the <hi>Star-Chamber;</hi> That Court was establish'd by several<note n="*" place="margin">3 <hi>H.</hi> 7. <hi>c.</hi> 1. 21 <hi>H.</hi> 8. <hi>c.</hi> 20.</note> Acts of Parliament, and its Authority and Power corroborated and affirmed by divers subsequent Laws: Yet afterwards by Act of Parliament in the 16th year of King <hi>Charles</hi> I. ch. 10. All those Statute-Laws (so far as they concerned the said Court) were Repealed; and that Court (tho' of long continuance in this Nation) abolish'd and utterly suppress'd. The Reasons for so doing as alledg'd in the said Statute, are very observable <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> First it is set forth in the Preamble, That it was re<g ref="char:EOLhyphen"/>pugnant to the <hi>Great Charter;</hi> and afterwards fol<g ref="char:EOLhyphen"/>low these very words: <hi>And forasmuch as the Reasons and Motives inducing the Erection and Continuance of that Court do now cease, and the Proceeding, Cen<g ref="char:EOLhyphen"/>sures, and Decrees of that Court have by experience been found to be an intollerable burden to the Subject.—</hi> Can any thing more exactly parallel the present case of the <hi>Test</hi> and <hi>Penal Laws,</hi> whether it be in relati<g ref="char:EOLhyphen"/>on to their Opposition to the <hi>Great Charter,</hi> the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>redge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ceasing of the Motives that first occasion'd them, or their intollerable burden to the Subject?</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
